@@ -5,4 +5,3 @@
 <img width="604" alt="image" src="https://github.com/anuvaK/CSS-ASSIGNMENT02/assets/51732536/59781c76-e900-4f96-8299-c134f4bfb1ff">
 
 ![Uploading image.png…]()
-
