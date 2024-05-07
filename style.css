@@ -1,0 +1,188 @@
+.food_box {
+    margin: 30px auto;
+    padding: 5px 10px;
+    width: 400px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ccc;
+}
+.food_heading {
+    color: #1c1c1c;
+    margin: 0px;
+}
+
+.food_txt {
+    color: #6a6a6a;
+    font-size: 14px;
+}
+
+.food_header {
+    width: 100%;
+    position: relative;
+}
+.food_footer {
+    display:flex;
+    gap: 5px;
+}
+
+.food_promoted {
+    color: white;
+    background-color: #60606099;
+    position: absolute;
+    top: 20px;
+    left: 0.5px;
+    border-radius: 2px;
+    padding: 3px 12px;
+    border: none;
+}
+
+.food_time {
+    color: #000;
+    background-color: #fff;
+    position: absolute;
+    bottom: 30px;
+    right: 0.5px;
+    border-radius: 2px;
+    padding: 3px 4px;
+    border: none;
+}
+
+.food_offer {
+    color: white;
+    background-color: #256fef;
+    position: absolute;
+    bottom: 30px;
+    left: 0.5px;
+    border-radius: 2px;
+    padding: 3px 12px;
+    border: none;
+}
+
+.food_img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.food_divider {
+    border-top: 1px solid lightgray;
+    margin-bottom: 5px;
+}
+
+.food_max_safety {
+    height: 20px;
+}
+
+.tour_box {
+    margin: 30px auto;
+    padding: 20px 40px;
+    width: 600px;
+    position:relative;
+}
+
+.tour_img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.tour_box_content {
+    text-align:center;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    color:#fff;
+    box-sizing: border-box;
+}
+
+.tour_btn {
+    background-color: #fff;
+    border: none;
+    color: #000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+.zomato_box {
+    margin: 30px auto;
+    padding: 20px 40px;
+    width: 600px;
+    position:relative;
+}
+
+.zomato_img {
+    width:100%;
+}
+
+.zomato_box_content {
+    text-align:center;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    color:#fff;
+    box-sizing: border-box;
+}
+
+.zomato_select {
+    background-color: #fff;
+    color: #333232;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.zomato_input {
+    background-color: #fff;
+    color: #333232;
+    padding: 10px 80px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.profile_box {
+    margin: 30px auto;
+    padding: 20px 40px;
+    width: 500px; 
+    background-color: #0003;
+    border-radius: 23px;
+}
+
+.profile_header {
+    position: relative;
+}
+
+.profile_img_01 {
+    position: absolute;
+    left: 38%;
+    bottom: -38px;
+}
+.profile_img {
+    width:50%;
+    height:100px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.profile_bg_img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.profile_content {
+    text-align: center;
+    padding: 20px 10px;
+    margin-bottom: 0px;
+}
+    
